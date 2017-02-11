@@ -73,14 +73,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="custom\Brag.vb" />
+    <Compile Include="custom\Class1.vb" />
     <Compile Include="custom\consts.vb" />
     <Compile Include="custom\customShadow.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="custom\customwindow.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="custom\s.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.vb">
